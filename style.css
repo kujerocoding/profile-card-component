@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+:root {
+    --FF: 'Kumbh Sans', sans-serif;
+    --FS: 18px;
+    --DARKCYAN: hsl(185, 75%, 39%);
+    --DESATURATEDBLUE: hsl(229, 23%, 23%);
+    --GRAYISHBLUE: hsl(227, 10%, 46%);
+    --GRAYISHGRAY: hsl(0, 0%, 59%);
+}
