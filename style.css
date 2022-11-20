@@ -83,3 +83,12 @@ body {
     font-size: .7rem;
     letter-spacing: .1em;
 }
+
+@media  (min-width: 50em) {
+    .card__container {
+        transition: .3s;
+        transform: scale(120%);
+    }
+
+
+}
